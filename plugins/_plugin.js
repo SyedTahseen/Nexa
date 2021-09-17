@@ -26,7 +26,7 @@ const heroku = new Heroku({
 let baseURI = '/apps/' + Config.HEROKU.APP_NAME;
 
 Amdi.applyCMD({pattern: 'install ?(.*)', fromMe: true, desc: Lang.INSTALL_DESC, dontAddCommandList: true, deleteCommand: false,}, (async (message, match) => {
-    if (match[1] === '') return await message.sendMessage(Lang.NEED_URL + '.install https://gist.github.com/BlackAmda/49afd28b1932095cc76facbcedef3482')
+    if (match[1] === '') return await message.sendMessage(Lang.NEED_URL + '.install https://gist.github.com/SyedTahseen/639693e5975f885b7435bf727416da35')
     try {
         var url = new URL(match[1]);
     } catch {
