@@ -483,7 +483,7 @@
             "HL_COUNT":"Highlight story"
         },
         "github": {
-            "GİTHUB_DESC": "Stalk github profiles of given username.\n⌨️ Example: .github BlackAmda",
+            "GİTHUB_DESC": "Stalk github profiles of given username.\n⌨️ Example: .github SyedTahseen",
             "REPLY": "```Please type github username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
