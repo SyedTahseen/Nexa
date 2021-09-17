@@ -14,7 +14,7 @@ const Language = require('../language');
 const Lang = Language.getString('scrapers');
 
 const sin = `💠📃 ● *Text සිට Image Effect List* ● 📃💠\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n` + 
-`⚙️විධානය: *.glitch*\nℹ️විස්තර: Text සිට Tiktok glitch effect.\n_(Ex: .glitch Queen;Amdi)_\n\n` + 
+`⚙️විධානය: *.glitch*\nℹ️විස්තර: Text සිට Tiktok glitch effect.\n_(Ex: .glitch Nexa)_\n\n` + 
 `⚙️විධානය: *.pemoji*\nℹ️විස්තර: Emoji සිට පින්තූරයට.\n\n` + 
 `⚙️විධානය: *.hacker*\nℹ️විස්තර: ඔබේ නම සමඟ hacker wallpaper සෑදීම.\n\n` + 
 `⚙️විධානය: *.matrix*\nℹ️විස්තර: ඔබේ නම සමඟ matrix wallpaper සෑදීම.\n\n` + 
