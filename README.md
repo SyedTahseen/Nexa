@@ -68,17 +68,15 @@ the user is responsible.
 ----
 <p align="center">
   <a href="httsp://github.com/SyedTahseen/nexa">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
+    <img src="https://img.shields.io/docker/pulls/syedtahseen/nexa?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
   <a href="httsp://github.com/SyedTahseen/nexa">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
+    <img src="https://img.shields.io/docker/image-size/syedtahseen/nexa?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
   </a>
 </p>
 
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/iTahseen)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/SyedTahseen/nexa/wiki)
 
 ## 🔎 What is Nexa?
 **Nexa,** is a WhatsApp helper bot modified by [Syed Tahseen](https://github.com/SyedTahseen). Does not log into your account It is written on WhatsApp Web API.
@@ -88,7 +86,7 @@ the user is responsible.
 [![Run on Repl.it](https://repl.it/badge/github/SyedTahseen/nexa)](https://replit.com/@SyedTahseen/Nexa-QR-Generator)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SyedTahseen/nexa)
-
+[![Deploy Railway](https://railway.app/button.svg)](https://github.com/SyedTahseen/Nexa/wiki/Deploy-On-Railwayapp)
 ##
 
 ## F.A.Q
