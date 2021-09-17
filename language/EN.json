@@ -539,7 +539,7 @@
             "ewall": "Get random Aesthetic wallpapers"
         },
         "tiktok":{
-            "TK_DESC": "Stalk tiktok profile to a given username.\n⌨️ Example: .tk _black.amda_",
+            "TK_DESC": "Stalk tiktok profile to a given username.\n⌨️ Example: .tk iTahseen",
             "REPLY": "```Please enter a valid tiktok username!```",
             "USERNAME": "Username :",
             "NAME": "Nickname :",
