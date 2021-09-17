@@ -68,15 +68,16 @@ the user is responsible.
 ----
 <p align="center">
   <a href="httsp://github.com/SyedTahseen/nexa">
-    <img src="https://img.shields.io/docker/pulls/syedtahseen/nexa?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
   <a href="httsp://github.com/SyedTahseen/nexa">
-    <img src="https://img.shields.io/docker/image-size/syedtahseen/nexa?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
   </a>
 </p>
 
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/iTahseen)
+
 
 ## 🔎 What is Nexa?
 **Nexa,** is a WhatsApp helper bot modified by [Syed Tahseen](https://github.com/SyedTahseen). Does not log into your account It is written on WhatsApp Web API.
