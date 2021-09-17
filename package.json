@@ -1,0 +1,28 @@
+{
+  "name": "queen_amdi",
+  "version": "1.0.0v",
+  "description": "NEXA is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp..",
+  "main": "./QueenAmdi/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedTahseen/Nexa.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "SyedTahseen",
+  "developer": "AN Tech",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SyedTahseen/Nexa/issues"
+  },
+  "homepage": "https://github.com/SyedTahseen/Nexa#readme",
+  "dependencies": {
+    "queenamdi-public-1":"1.0.0",
+    "queenamdi-img": "1.0.0",
+    "queenamdi-textlogo-1.0.3": "1.0.3"
+  }
+}
