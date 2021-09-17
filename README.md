@@ -37,6 +37,7 @@
   </a>
 </p>
 
+
 ```
 Nexa - Nexa Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
@@ -52,8 +53,12 @@ Marketing Nexa for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
-
 <div align="center">
+
+  ![Nexa Logo](https://telegra.ph/file/eb6abc12dd061c2a9bb30.jpg)
+
+<!---
+-->
 
 
   <h1>🐺 Nexa</h1>
