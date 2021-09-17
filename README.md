@@ -28,11 +28,11 @@
 
   </a>
   <a href="https://github.com/SyedTahseen">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Tahseen&color=purple&style=plastic">
 
   </a>
   <a href="https://t.me/iTahseen">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Support-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Telegram-Nexa%20Support-purple&style=plastic">
 
   </a>
 </p>
