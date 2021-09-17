@@ -26,7 +26,7 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```👸💎 Hey There! I'm Online now. 😙```\n\n*Developer:* ```Syed Tahseen```\n\n*WhatsApp :* wa.me/923018706705\n\n*Website :* https://www.stahseen.me\n\n```Thank You For Using Nexa💞```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There, I'm Online now.```\n\n*Developer:* ```Syed Tahseen```\n\n*WhatsApp :* wa.me/923018706705\n\n*Website :* https://www.stahseen.me\n\n```Thank You For Using Nexa💞```"})
 
     }
     else {
