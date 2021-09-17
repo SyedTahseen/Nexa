@@ -483,7 +483,7 @@
             "HL_COUNT":"Highlight story ගණන"
         },
         "github": {
-            "GİTHUB_DESC": "දී ඇති පරිශීලක නාමයෙන් github තොරතුරු රැස් කරයි.\n⌨️ Example: .github BlackAmda",
+            "GİTHUB_DESC": "දී ඇති පරිශීලක නාමයෙන් github තොරතුරු රැස් කරයි.\n⌨️ Example: .github SyedTahseen",
             "REPLY": "```ඔබට ඕනෑම username ටයිප් කිරීමට අවශ්‍යයි!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
